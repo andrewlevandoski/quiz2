@@ -19,4 +19,4 @@ Pay attention to the comments in the files as well, you will find extra instruct
 
 You don't have to make any new or more styles....but it certainly wouldn't hurt to do so.
 
-Come to me with any quesitons you may have
+Come to me with any questions you may have
